@@ -1,1 +1,1 @@
-# AlgorithmsKotlin
+# Algorithms Kotlin
